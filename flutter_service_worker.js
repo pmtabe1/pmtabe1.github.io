@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "e6707d767e32f4f92309813500806013",
-"index.html": "f27064969ddffec552f9c1e4da8d66ec",
-"/": "f27064969ddffec552f9c1e4da8d66ec",
-"main.dart.js": "d2060bf7ff5176bbb0c1b0b6fe32ae70",
+"index.html": "94940d7f5015dbe823e55cdb7092bffa",
+"/": "94940d7f5015dbe823e55cdb7092bffa",
+"main.dart.js": "59c7bcf938d6d851ab804e04ec9bc746",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -14,7 +14,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "91dde8b0c76b213b7b9af3a3ecdc674d",
 "assets/AssetManifest.json": "250c843e7c63fe0d23dac9d38624021f",
-"assets/NOTICES": "ff66c04dc568550a4e3005f47a781fd2",
+"assets/NOTICES": "cf17f3d7a036598fffd6788d714e1e73",
 "assets/FontManifest.json": "5aa53278e253b596398920140c22353a",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_AMS-Regular.ttf": "657a5353a553777e270827bd1630e467",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Script-Regular.ttf": "55d2dcd4778875a53ff09320a85a5296",
