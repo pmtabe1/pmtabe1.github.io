@@ -1,11 +1,11 @@
 {
-    "name": "Haki Kiganjani Web Platform",
-    "short_name": "Haki Kiganjani Web Platform",
+    "name": "haki_kiganjani_app",
+    "short_name": "haki_kiganjani_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Haki kiganjani platform.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
