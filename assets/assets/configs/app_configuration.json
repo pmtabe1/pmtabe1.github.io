@@ -1,0 +1,108 @@
+{
+    "forms": {
+        "fields": {
+            "role": {
+                "public": {
+                    "mandatory": []
+                },
+                "operator": {
+                    "mandatory": []
+                },
+                "hrm": {
+                    "mandatory": []
+                },
+                "admin": {
+                    "mandatory": []
+                }
+            }
+        },
+        "en": {
+            "language": "en",
+            "title": "HRMI Submission",
+            "type": "Human Rights Monitor Incidence Report",
+            "sex": "Sex",
+            "religion": "Religion",
+            "stage": "Stage",
+            "placeOfIncident": "place of incidence",
+            "dob": "Date of birth",
+            "video": "Upload video",
+            "photoOrDocument": "upload attachment",
+            "incidentDate": "Incident type",
+            "incidentTime": "Incident time",
+            "maritalStatus": "Marital status",
+            "specialGroup": "Select Special group",
+            "generationType": "Select processing type",
+            "priority": "Select priority",
+            "rightViolated": "Right violated",
+            "issuetype": "Select issue type",
+            "assistanceRequired": "Lhrc assistance required",
+            "firstname": "First name",
+            "phoneNumber": "Phone number",
+            "wayForward": "Way foward",
+            "keyFindings": "Key findings",
+            "details": "Details",
+            "ward": "Select ward",
+            "lastname": "Lastname",
+            "region": "Select region",
+            "district": "Select district",
+            "citizenName": "Citizen name",
+            "reporterName": "Reporter Name",
+            "followUpcaseDocumentation": "Follow up documentation",
+            "websiteLink": "Website link",
+            "mediaNme": "Media name",
+            "publishTime": "Publish time",
+            "clientName": "Client name",
+            "publishDate": "Publish data",
+            "comment": "Comment",
+            "victimTribe": "Victim Tribe",
+            "perpetratorName": "Perpetrator name",
+            "victimContact": "Victim contact",
+            "perpetratorTribe ": "Pepertrator tribe",
+            "attachments": "Attachments"
+        },
+        "sw": {
+            "language": "sw",
+            "title": "Fomu ya Mwangalizi",
+            "type": "Matukio ya Mwangalizi",
+            "sex": "Jinsi",
+            "religion": "Dini",
+            "stage": "Hatua",
+            "placeOfIncident": "Eneo la tukio",
+            "dob": "Tarehe ya kuzaliwa",
+            "video": "Pandisha video",
+            "photoOrDocument": "Pandisha nyaraka",
+            "incidentDate": "Aina ya tukio",
+            "incidentTime": "Muda wa tukio",
+            "maritalStatus": "Hali ya ndoa",
+            "specialGroup": "Kundi Maalumu",
+            "generationType": "N/A",
+            "priority": "Kipaumbele",
+            "rightViolated": "Hali iliyovunjwa",
+            "issuetype": "Aina ya tukio",
+            "assistanceRequired": "Msaada kutoka LHRC",
+            "firstname": "Jina la kwanza",
+            "phoneNumber": "Namba ya simu",
+            "wayForward": "Nini kifanyike",
+            "keyFindings": "Matukio muhimu",
+            "details": "Maelezo",
+            "ward": "Chagua Kata",
+            "lastname": "Jina la mwisho",
+            "region": "Mkoa",
+            "district": "Wilaya",
+            "citizenName": "Jina Kamili",
+            "reporterName": "Jina la Mtumaji",
+            "followUpcaseDocumentation": "Taarifa za ufuatiliaji",
+            "websiteLink": "linki ya tovuti",
+            "mediaNme": "Jina la Chombo cha Habari",
+            "publishTime": "Muda wa kuchapisha",
+            "clientName": "Jina la Mteja",
+            "publishDate": "Chapisha taarifa",
+            "comment": "Maoni/Mrejesho",
+            "victimTribe": "Kabila la Muhanga",
+            "perpetratorName": "Jina la Mshukiwa",
+            "victimContact": "Mawasiliano ya Muhanga",
+            "perpetratorTribe ": "Kabila la Mshukiwa",
+            "attachments": "Viambatanishi"
+        }
+    }
+}
