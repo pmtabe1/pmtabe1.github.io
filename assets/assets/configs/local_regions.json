@@ -1,0 +1,756 @@
+[
+    {
+        "name": "Arusha",
+        "districts": [
+            {
+                "name": "Arumeru Magharibi",
+                "wards": []
+            },
+            {
+                "name": "Arumeru Mashariki",
+                "wards": []
+            },
+            {
+                "name": "Arusha Mjini ",
+                "wards": []
+            },
+            {
+                "name": "Karatu",
+                "wards": []
+            },
+            {
+                "name": "Longido",
+                "wards": []
+            },
+            {
+                "name": "Monduli",
+                "wards": []
+            }
+        ]
+    },
+    {
+        "name": "Dar es Salaam",
+        "districts": [
+            {
+                "name": "Kinondoni",
+                "wards": []
+            },
+            {
+                "name": "Temeke",
+                "wards": []
+            },
+            {
+                "name": "Ilala",
+                "wards": []
+            },
+            {
+                "name": "Ubungo",
+                "wards": []
+            },
+            {
+                "name": "Kigamboni",
+                "wards": []
+            }
+        ]
+    },
+    {
+        "name": "Dodoma",
+        "districts": [
+            {
+                "name": "Bahi",
+                "wards": []
+            },
+            {
+                "name": "Chamwino",
+                "wards": []
+            },
+            {
+                "name": "Chemba",
+                "wards": []
+            },
+            {
+                "name": "Dodoma",
+                "wards": []
+            },
+            {
+                "name": "Kondoa",
+                "wards": []
+            },
+            {
+                "name": "Kongwa",
+                "wards": []
+            },
+            {
+                "name": "Mpwapwa",
+                "wards": []
+            }
+        ]
+    },
+    {
+        "name": "Iringa",
+        "districts": [
+            {
+                "name": "Bahi",
+                "wards": []
+            },
+            {
+                "name": "Chamwino",
+                "wards": []
+            },
+            {
+                "name": "Chemba",
+                "wards": []
+            },
+            {
+                "name": "Dodoma Mjini",
+                "wards": []
+            },
+            {
+                "name": "Dodoma Vijijini",
+                "wards": []
+            },
+            {
+                "name": "Kondoa",
+                "wards": []
+            },
+            {
+                "name": "Kongwa",
+                "wards": []
+            },
+            {
+                "name": "Mpwapwa",
+                "wards": []
+            }
+        ]
+    },
+    {
+        "name": "Kagera",
+        "districts": [
+            {
+                "name": "Biharamulo",
+                "wards": []
+            },
+            {
+                "name": "Bukoba Mjini",
+                "wards": []
+            },
+            {
+                "name": "Bukoba Vijijini",
+                "wards": []
+            },
+            {
+                "name": "Karagwe",
+                "wards": []
+            },
+            {
+                "name": "Missenyi",
+                "wards": []
+            },
+            {
+                "name": "Muleba",
+                "wards": []
+            },
+            {
+                "name": "Ngara",
+                "wards": []
+            },
+            {
+                "name": "Kyerwa",
+                "wards": []
+            }
+        ]
+    },
+    {
+        "name": "Kaskazini Pemba",
+        "districts": [
+            {
+                "name": "Micheweni",
+                "wards": []
+            },
+            {
+                "name": "Wete",
+                "wards": []
+            }
+        ]
+    },
+    {
+        "name": "Kaskazini Unguja",
+        "districts": [
+            {
+                "name": "Unguja Kaskazini A",
+                "wards": []
+            },
+            {
+                "name": "Unguja Kaskazini B",
+                "wards": []
+            }
+        ]
+    },
+    {
+        "name": "Kigoma",
+        "districts": [
+            {
+                "name": "Kasulu",
+                "wards": []
+            },
+            {
+                "name": "Kibondo",
+                "wards": []
+            },
+            {
+                "name": "Kigoma Vijijini",
+                "wards": []
+            },
+            {
+                "name": "Kigoma Mjini",
+                "wards": []
+            },
+            {
+                "name": "Kigoma Ujiji",
+                "wards": []
+            },
+            {
+                "name": "Buhigwe",
+                "wards": []
+            },
+            {
+                "name": "Kakonko",
+                "wards": []
+            },
+            {
+                "name": "Uvinza",
+                "wards": []
+            }
+        ]
+    },
+    {
+        "name": "Kilimanjaro",
+        "districts": [
+            {
+                "name": "Hai",
+                "wards": []
+            },
+            {
+                "name": "Moshi Mjini",
+                "wards": []
+            },
+            {
+                "name": "Moshi Vijijini",
+                "wards": []
+            },
+            {
+                "name": "Mwanga",
+                "wards": []
+            },
+            {
+                "name": "Rombo",
+                "wards": []
+            },
+            {
+                "name": "Same",
+                "wards": []
+            },
+            {
+                "name": "Siha",
+                "wards": []
+            }
+        ]
+    },
+    {
+        "name": "Kusini Pemba",
+        "districts": [
+            {
+                "name": "Chake Chake",
+                "wards": []
+            },
+            {
+                "name": "Mkoani",
+                "wards": []
+            }
+        ]
+    },
+    {
+        "name": "Kusini Unguja",
+        "districts": [
+            {
+                "name": "Kati Unguja",
+                "wards": []
+            },
+            {
+                "name": "Kusini Unguja",
+                "wards": []
+            }
+        ]
+    },
+    {
+        "name": "Lindi",
+        "districts": [
+            {
+                "name": "Kilwa",
+                "wards": []
+            },
+            {
+                "name": "Lindi Mjini",
+                "wards": []
+            },
+            {
+                "name": "Lindi Vijijini",
+                "wards": []
+            },
+            {
+                "name": "Nachingwea",
+                "wards": []
+            },
+            {
+                "name": "Ruangwa",
+                "wards": []
+            },
+            {
+                "name": "Liwale",
+                "wards": []
+            }
+        ]
+    },
+    {
+        "name": "Manyara",
+        "districts": [
+            {
+                "name": "Babati",
+                "wards": []
+            },
+            {
+                "name": "Babati Vijijini",
+                "wards": []
+            },
+            {
+                "name": "Hanang",
+                "wards": []
+            },
+            {
+                "name": "Kiteto",
+                "wards": []
+            },
+            {
+                "name": "Mbulu",
+                "wards": []
+            },
+            {
+                "name": "Simanjiro",
+                "wards": []
+            }
+        ]
+    },
+    {
+        "name": "Mara",
+        "districts": [
+            {
+                "name": "Bunda",
+                "wards": []
+            },
+            {
+                "name": "Musoma Mjini",
+                "wards": []
+            },
+            {
+                "name": "Musoma Vijijini",
+                "wards": []
+            },
+            {
+                "name": "Rorya",
+                "wards": []
+            },
+            {
+                "name": "Serengeti",
+                "wards": []
+            },
+            {
+                "name": "Tarime",
+                "wards": []
+            }
+        ]
+    },
+    {
+        "name": "Mbeya",
+        "districts": [
+            {
+                "name": "Chunya",
+                "wards": []
+            },
+            {
+                "name": "Ileje",
+                "wards": []
+            },
+            {
+                "name": "Kyela",
+                "wards": []
+            },
+            {
+                "name": "Mbarali",
+                "wards": []
+            },
+            {
+                "name": "Mbeya Mjini",
+                "wards": []
+            },
+            {
+                "name": "Mbeya Vijijini",
+                "wards": []
+            },
+            {
+                "name": "Mbozi",
+                "wards": []
+            }
+        ]
+    },
+    {
+        "name": "Mjini Magharibi",
+        "districts": [
+            {
+                "name": "Magharibi Unguja",
+                "wards": []
+            },
+            {
+                "name": "Mjini Unguja",
+                "wards": []
+            }
+        ]
+    },
+    {
+        "name": "Morogoro",
+        "districts": [
+            {
+                "name": "Gairo",
+                "wards": []
+            },
+            {
+                "name": "Morogoro Mjini",
+                "wards": []
+            },
+            {
+                "name": "Morogoro Vijijini",
+                "wards": []
+            },
+            {
+                "name": "Kilombero",
+                "wards": []
+            },
+            {
+                "name": "Kilosa",
+                "wards": []
+            },
+            {
+                "name": "Mvomero",
+                "wards": []
+            },
+            {
+                "name": "Malinyi",
+                "wards": []
+            },
+            {
+                "name": "Ulanga",
+                "wards": []
+            }
+        ]
+    },
+    {
+        "name": "Mtwara",
+        "districts": [
+            {
+                "name": "Masasi",
+                "wards": []
+            },
+            {
+                "name": "Masasi Mjini",
+                "wards": []
+            },
+            {
+                "name": "Mtwara Mikindani",
+                "wards": []
+            },
+            {
+                "name": "Mtwara Mjini",
+                "wards": []
+            },
+            {
+                "name": "Mtwara Vijijini",
+                "wards": []
+            },
+            {
+                "name": "Newala",
+                "wards": []
+            },
+            {
+                "name": "Tandahimba",
+                "wards": []
+            }
+        ]
+    },
+    {
+        "name": "Mwanza",
+        "districts": [
+            {
+                "name": "Geita",
+                "wards": []
+            },
+            {
+                "name": "Ilemela",
+                "wards": []
+            },
+            {
+                "name": "Kwimba",
+                "wards": []
+            },
+            {
+                "name": "Magu",
+                "wards": []
+            },
+            {
+                "name": "Misungwi",
+                "wards": []
+            },
+            {
+                "name": "Nyamagana",
+                "wards": []
+            },
+            {
+                "name": "Sengerema",
+                "wards": []
+            },
+            {
+                "name": "Ukerewe",
+                "wards": []
+            }
+        ]
+    },
+    {
+        "name": "Pwani",
+        "districts": [
+            {
+                "name": "Bagamoyo",
+                "wards": []
+            },
+            {
+                "name": "Kibaha",
+                "wards": []
+            },
+            {
+                "name": "Kibiti",
+                "wards": []
+            },
+            {
+                "name": "Kisarawe",
+                "wards": []
+            },
+            {
+                "name": "Mafia",
+                "wards": []
+            },
+            {
+                "name": "Mkuranga",
+                "wards": []
+            },
+            {
+                "name": "Rufiji",
+                "wards": []
+            }
+        ]
+    },
+    {
+        "name": "Rukwa",
+        "districts": [
+            {
+                "name": "Mpanda",
+                "wards": []
+            },
+            {
+                "name": "Nkansi",
+                "wards": []
+            },
+            {
+                "name": "Sumbawanga Mjini",
+                "wards": []
+            },
+            {
+                "name": "Sumbawanga Vijijini",
+                "wards": []
+            },
+            {
+                "name": "Kalambo",
+                "wards": []
+            }
+        ]
+    },
+    {
+        "name": "Ruvuma",
+        "districts": [
+            {
+                "name": "Mbinga",
+                "wards": []
+            },
+            {
+                "name": "Namtumbo",
+                "wards": []
+            },
+            {
+                "name": "Songea Mjini",
+                "wards": []
+            },
+            {
+                "name": "Songea Vijijini",
+                "wards": []
+            },
+            {
+                "name": "Tunduru",
+                "wards": []
+            },
+            {
+                "name": "Nyasa",
+                "wards": []
+            }
+        ]
+    },
+    {
+        "name": "Shinyanga",
+        "districts": [
+            {
+                "name": "Bariadi",
+                "wards": []
+            },
+            {
+                "name": "Shinyanga Mjini",
+                "wards": []
+            },
+            {
+                "name": "Shinyanga Vijijini",
+                "wards": []
+            },
+            {
+                "name": "Bukombe",
+                "wards": []
+            },
+            {
+                "name": "Kahama Mjini",
+                "wards": []
+            },
+            {
+                "name": "Kahama Vijijini",
+                "wards": []
+            },
+            {
+                "name": "Kishapu",
+                "wards": []
+            },
+            {
+                "name": "Maswa",
+                "wards": []
+            },
+            {
+                "name": "Meatu",
+                "wards": []
+            }
+        ]
+    },
+    {
+        "name": "Singida",
+        "districts": [
+            {
+                "name": "Iramba",
+                "wards": []
+            },
+            {
+                "name": "Manyoni",
+                "wards": []
+            },
+            {
+                "name": "Singida Mjini",
+                "wards": []
+            },
+            {
+                "name": "Singida Vijijini",
+                "wards": []
+            },
+            {
+                "name": "Ikungi",
+                "wards": []
+            },
+            {
+                "name": "Mkalama",
+                "wards": []
+            }
+        ]
+    },
+    {
+        "name": "Tabora",
+        "districts": [
+            {
+                "name": "Igunga",
+                "wards": []
+            },
+            {
+                "name": "Tabora Mjini",
+                "wards": []
+            },
+            {
+                "name": "Nzega",
+                "wards": []
+            },
+            {
+                "name": "Sikonge",
+                "wards": []
+            },
+            {
+                "name": "Urambo",
+                "wards": []
+            },
+            {
+                "name": "Uyui",
+                "wards": []
+            },
+            {
+                "name": "Kaliua",
+                "wards": []
+            }
+        ]
+    },
+    {
+        "name": "Tanga",
+        "districts": [
+            {
+                "name": "Handeni",
+                "wards": []
+            },
+            {
+                "name": "Handeni Mjini",
+                "wards": []
+            },
+            {
+                "name": "Handeni Vijijini",
+                "wards": []
+            },
+            {
+                "name": "Korogwe",
+                "wards": []
+            },
+            {
+                "name": "Lushoto",
+                "wards": []
+            },
+            {
+                "name": "Mkinga",
+                "wards": []
+            },
+            {
+                "name": "Muheza",
+                "wards": []
+            },
+            {
+                "name": "Pangani",
+                "wards": []
+            },
+            {
+                "name": "Tanga",
+                "wards": []
+            }
+        ]
+    }
+]
