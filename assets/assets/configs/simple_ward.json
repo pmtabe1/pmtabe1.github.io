@@ -1,0 +1,28 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        36.17862348800003,
+                        -4.615152065999951
+                    ]
+                ]
+            },
+            "properties": {
+                "Region_Cod": "01",
+                "Region_Nam": "Dodoma",
+                "District_C": "01",
+                "District_N": "Kondoa",
+                "Ward_Code": "011",
+                "Ward_Name": "Bumbuta",
+                "Division": "",
+                "SHAPE_Leng": 0.769320015482,
+                "SHAPE_Area": 0.015383375933
+            }
+        }
+    ]
+}

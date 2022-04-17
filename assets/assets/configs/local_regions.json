@@ -90,35 +90,23 @@
         "name": "Iringa",
         "districts": [
             {
-                "name": "Bahi",
+                "name": "Kilolo",
                 "wards": []
             },
             {
-                "name": "Chamwino",
+                "name": "Mafinga Mjini",
                 "wards": []
             },
             {
-                "name": "Chemba",
+                "name": "Iringa Mjini",
                 "wards": []
             },
             {
-                "name": "Dodoma Mjini",
+                "name": "Iringa Vijijini",
                 "wards": []
             },
             {
-                "name": "Dodoma Vijijini",
-                "wards": []
-            },
-            {
-                "name": "Kondoa",
-                "wards": []
-            },
-            {
-                "name": "Kongwa",
-                "wards": []
-            },
-            {
-                "name": "Mpwapwa",
+                "name": "Mufindi",
                 "wards": []
             }
         ]
