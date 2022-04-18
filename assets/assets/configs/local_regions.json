@@ -271,6 +271,23 @@
         ]
     },
     {
+        "name": "Katavi",
+        "districts": [
+            {
+                "name": "Nsimbo",
+                "wards": []
+            },
+            {
+                "name": "Mlele",
+                "wards": []
+            },
+            {
+                "name": "Mpanda",
+                "wards": []
+            }
+        ]
+    },
+    {
         "name": "Lindi",
         "districts": [
             {
