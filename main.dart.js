@@ -106147,7 +106147,7 @@ s.l(0,null,t.G)
 return new A.b70(b).$0()}}
 A.b70.prototype={
 $0(){var s,r=null,q=this.a,p=t.w,o=q.p(p).f,n=t.p
-o=A.D(r,A.aa(A.a([new A.H(B.v,A.q("Haki Kiganjani ...",r,r,r,r,A.bV(r,r,A.e(q).rx,r,r,r,r,r,r,r,r,r,r,B.z,r,r,!0,r,r,r,r,r,r,r,r),r,r,r),r),A.ai(r,r,q.p(p).f.a.a*0.768-360)],n),B.bk,B.i,B.h,r,r),B.f,B.di,r,r,r,50,r,r,r,r,r,o.a.a-200)
+o=A.D(r,A.aa(A.a([new A.H(B.v,A.q("LHRC Haki Kiganjani.",r,r,r,r,A.bV(r,r,A.e(q).rx,r,r,r,r,r,r,r,r,r,r,B.z,r,r,!0,r,r,r,r,r,r,r,r),r,r,r),r),A.ai(r,r,q.p(p).f.a.a*0.768-360)],n),B.bk,B.i,B.h,r,r),B.f,B.di,r,r,r,50,r,r,r,r,r,o.a.a-200)
 s=q.p(p).f
 return A.T(A.a([o,A.D(r,A.aa(A.a([B.ay,B.af2,A.ai(r,r,200),A.D(r,A.pz("","",r,r,new A.b71(),r,r,!1,r,"",B.e2,"Search report by name"),B.f,r,r,r,r,60,r,r,r,r,r,600)],n),B.j,B.i,B.h,r,r),B.f,B.k,r,r,r,80,r,r,r,r,r,s.a.a-200),B.aP,A.iE(B.Sj,B.ei,r,B.N,r,B.G,r,q.p(p).f.a.b,r,r,q.p(p).f.a.a-200)],n),B.j,B.i,B.h,r)},
 $S:4}
@@ -106165,7 +106165,7 @@ s.l(0,null,t.G)
 return new A.b72(b).$0()}}
 A.b72.prototype={
 $0(){var s,r=null,q=this.a,p=t.w,o=q.p(p).f,n=t.p
-o=A.D(r,A.aa(A.a([new A.H(B.v,A.q("Haki Kiganjani ...",r,r,r,r,A.bV(r,r,A.e(q).rx,r,r,r,r,r,r,r,r,r,r,B.z,r,r,!0,r,r,r,r,r,r,r,r),r,r,r),r),A.ai(r,r,q.p(p).f.a.a*0.768-360)],n),B.bk,B.i,B.h,r,r),B.f,B.di,r,r,r,50,r,r,r,r,r,o.a.a-200)
+o=A.D(r,A.aa(A.a([new A.H(B.v,A.q("LHRC Haki Kiganjani.",r,r,r,r,A.bV(r,r,A.e(q).rx,r,r,r,r,r,r,r,r,r,r,B.z,r,r,!0,r,r,r,r,r,r,r,r),r,r,r),r),A.ai(r,r,q.p(p).f.a.a*0.768-360)],n),B.bk,B.i,B.h,r,r),B.f,B.di,r,r,r,50,r,r,r,r,r,o.a.a-200)
 s=q.p(p).f
 return A.T(A.a([o,A.D(r,A.aa(A.a([B.ay,B.aeW,A.ai(r,r,200),A.D(r,A.pz("","",r,r,new A.b73(),r,r,!1,r,"",B.e2,"Search report by name"),B.f,r,r,r,r,60,r,r,r,r,r,600)],n),B.j,B.i,B.h,r,r),B.f,B.k,r,r,r,80,r,r,r,r,r,s.a.a-200),B.aP,A.iE(B.a1E,B.ei,r,B.N,r,B.G,r,q.p(p).f.a.b,r,r,q.p(p).f.a.a-200)],n),B.j,B.i,B.h,r)},
 $S:4}
