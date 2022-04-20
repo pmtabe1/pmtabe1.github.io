@@ -106997,7 +106997,7 @@ aCl(a){var s=0,r=A.y(t.GU),q,p,o,n
 var $async$iL=A.u(function(b,c){if(b===1)return A.v(c,r)
 while(true)switch(s){case 0:o=A.a([],t.BM)
 n=t.N
-if(!a.ga5(a))if(a.gcn(a)){B.b.E(o,a.h(0,"dataEnryFormList"))
+if(!a.ga5(a))if(a.gcn(a)){B.b.E(o,a.h(0,"dataEntryFormList"))
 p=A.dL(o,t._9)
 A.Y(p,!0,A.p(p).i("bZ.E"))
 A.r("Populating Icons log images map")
@@ -107012,13 +107012,13 @@ aEj(a){var s=0,r=A.y(t.Dk),q,p,o
 var $async$iQ=A.u(function(b,c){if(b===1)return A.v(c,r)
 while(true)switch(s){case 0:o=A.a([],t.BM)
 A.r("insided updateIcons function >>>>>>>>>")
-if(a.gcn(a)){B.b.E(o,a.h(0,"dataEnryFormList"))
+if(a.gcn(a)){B.b.E(o,a.h(0,"dataEntryFormList"))
 A.r("Populating Icons log images map")
 a.K(0,new A.aoC())}a.ga5(a)
 A.r(o.length)
 p=A.dL(o,t._9)
 o=A.Y(p,!0,A.p(p).i("bZ.E"))
-A.r(o.length)
+A.r(17)
 q=o
 s=1
 break
@@ -107026,7 +107026,8 @@ case 1:return A.w(q,r)}})
 return A.x($async$iQ,r)}}
 A.aoB.prototype={
 $2(a,b){A.r("\nkey :"+a+" \nvalue:"+A.m(b))
-if(t.Dk.b(b))A.r("Customer List Type DataEntryForm")},
+if(t.Dk.b(b))A.r("Customer List Type DataEntryForm")
+else if(b==null)A.r("Detected Null in DataEntryFormList")},
 $S:18}
 A.aoC.prototype={
 $2(a,b){A.r("\nkey :"+a+" \nvalue:"+A.m(b))
