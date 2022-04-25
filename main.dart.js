@@ -30421,7 +30421,7 @@ _.a=f},
 bM6(){var s,r="2014",q="2015",p="2016",o="2017",n=t.WR,m=A.a([new A.eD(r,B.O.cl(100)),new A.eD(q,B.O.cl(100)),new A.eD(p,B.O.cl(100)),new A.eD(o,B.O.cl(100))],n),l=A.a([new A.eD(r,B.O.cl(100)),new A.eD(q,B.O.cl(100)),new A.eD(p,B.O.cl(100)),new A.eD(o,B.O.cl(100))],n),k=A.a([new A.eD(r,B.O.cl(100)),new A.eD(q,B.O.cl(100)),new A.eD(p,B.O.cl(100)),new A.eD(o,B.O.cl(100))],n),j=A.a([new A.eD(r,B.O.cl(100)),new A.eD(q,B.O.cl(100)),new A.eD(p,B.O.cl(100)),new A.eD(o,B.O.cl(100))],n)
 n=t.uk
 s=t.N
-return A.a([A.eE(new A.b1O(),m,new A.b1P(),"Incidences",new A.b1Q(),n,s),A.eE(new A.b1S(),l,new A.b1T(),"Submissions",new A.b1U(),n,s),A.eE(new A.b1V(),k,new A.b1W(),"Users",new A.b1X(),n,s),A.eE(new A.b1Y(),j,new A.b1Z(),"Paralegals",new A.b2_(),n,s)],t.Tq)},
+return A.a([A.eE(new A.b1O(),m,new A.b1P(),"I",new A.b1Q(),n,s),A.eE(new A.b1S(),l,new A.b1T(),"S",new A.b1U(),n,s),A.eE(new A.b1V(),k,new A.b1W(),"U",new A.b1X(),n,s),A.eE(new A.b1Y(),j,new A.b1Z(),"P",new A.b2_(),n,s)],t.Tq)},
 SG:function SG(a,b,c){this.c=a
 this.d=b
 this.a=c},
