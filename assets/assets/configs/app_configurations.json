@@ -19,7 +19,7 @@
       "en": {
          "language": "en",
          "email": "email address",
-          "incidentDetail": "incident detail",
+         "incidentDetail": "incident detail",
          "reportDate": "report date",
          "mediaType": "media type",
          "publicationDate": "publication date",
@@ -103,8 +103,8 @@
       },
       "sw": {
          "language": "sw",
-         "victimReligion":"Dini ya muathirika",
-         "email":"barua pepe",
+         "victimReligion": "Dini ya muathirika",
+         "email": "barua pepe",
          "incidentDetail": "Maelezo ya tukio",
          "reportDate": "Tarehe ya ripoti",
          "mediaType": "aina ya chombo cha habari",
