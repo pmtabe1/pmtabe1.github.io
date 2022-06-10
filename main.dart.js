@@ -95036,7 +95036,7 @@ $.aq()
 s=$.cH().P
 r=$.T.G$.Q.h(0,s)
 if(B.b.p(a,"reporter")||B.b.p(a,"mwandishi")||B.b.p(a,"report")||!1)s=p.a.i8
-else if(B.b.p(a,"victim")||B.b.p(a,"mwathirika"))s=p.a.pI
+else if(B.b.p(a,"victim")||B.b.p(a,"mhanga"))s=p.a.pI
 else if(B.b.p(a,"perpertrator")||B.b.p(a,"mshukiwa")||B.b.p(a,"mhalifu"))s=p.a.t5
 else if(B.b.p(a,"incident")||B.b.p(a,"incident date")||B.b.p(a,"tukio")||B.b.p(a,"tarehe ya tukio"))s=p.a.kM
 else if(B.b.p(a,"victim date of birth birth")||B.b.p(a,"tarehe ya kuzaliwa")||B.b.p(a,"Victim Date of Birth".toLowerCase())||B.b.p(a,"kuzaliwa"))s=p.a.pI
@@ -95061,7 +95061,7 @@ $.aq()
 s=$.cH().P
 r=$.T.G$.Q.h(0,s)
 if(B.b.p(a,"reporter")||B.b.p(a,"mwandishi")||B.b.p(a,"report")||!1)s=p.a.B7
-else if(B.b.p(a,"victim")||B.b.p(a,"mwathirika"))s=p.a.wu
+else if(B.b.p(a,"victim")||B.b.p(a,"mhanga"))s=p.a.wu
 else{s=B.b.p(a,"perpertrator")||B.b.p(a,"mshukiwa")||B.b.p(a,"mhalifu")
 q=p.a
 s=s?q.B8:q.wu}q=p.b.k1
@@ -95074,7 +95074,7 @@ s=$.cH().P
 r=$.T.G$.Q.h(0,s)
 a=n.a=a.toLowerCase()
 if(B.b.p(a,"reporter")||B.b.p(a,"mwandishi")||B.b.p(a,"report")||!1)s=p.a.B6
-else if(B.b.p(a,"victim")||B.b.p(a,"mwathirika"))s=p.a.wv
+else if(B.b.p(a,"victim")||B.b.p(a,"mhanga"))s=p.a.wv
 else{s=B.b.p(a,"perpertrator")||B.b.p(a,"mshukiwa")||B.b.p(a,"mhalifu")
 q=p.a
 s=s?q.B9:q.wv}q=p.b.k1
@@ -95879,7 +95879,7 @@ if(B.b.p(k,"reporter")||B.b.p(k,"mwandishi")||B.b.p(k,"report")||!1){s=n.b
 r=s.a.wq
 q=r
 r=s
-s=q}else if(B.b.p(k,"victim")||B.b.p(k,"mwathirika")){s=n.b
+s=q}else if(B.b.p(k,"victim")||B.b.p(k,"mhanga")){s=n.b
 r=s.a.d3
 q=r
 r=s
@@ -95901,7 +95901,7 @@ a.toString
 A.l().$1(a)
 s=o.a
 r=s.a=s.a.toLowerCase()
-if(B.b.p(r,"victim")||B.b.p(r,"mwathirika")||B.b.p(r,n)){q=o.b.a.au
+if(B.b.p(r,"victim")||B.b.p(r,"mhanga")||B.b.p(r,n)){q=o.b.a.au
 q.gj(q).AH(a)}else if(B.b.p(r,"perpertrator")||B.b.p(r,"mharifu")||B.b.p(r,"mtuhumiwa")||B.b.p(r,n)){q=o.b.a.au
 q.gj(q).arU(a)}else if(B.b.p(r,"reporter")||B.b.p(r,"mwandishi")||B.b.p(r,"habari")){q=o.b.a.au
 q.gj(q).WP(a)}else if(B.b.p(r,"client")||B.b.p(r,"mteja")){q=o.b.a.au
@@ -95937,7 +95937,7 @@ a.toString
 A.l().$1(a)
 s=o.a
 r=s.a=s.a.toLowerCase()
-if(B.b.p(r,"victim")||B.b.p(r,"mwathirika")||B.b.p(r,n)){q=o.b.a.au
+if(B.b.p(r,"victim")||B.b.p(r,"mhanga")||B.b.p(r,n)){q=o.b.a.au
 q.gj(q).AF(a)}else if(B.b.p(r,"perpertrator")||B.b.p(r,"mharifu")||B.b.p(r,"mtuhumiwa")||B.b.p(r,n)){q=o.b.a.au
 q.gj(q).AF(a)}else if(B.b.p(r,"reporter")||B.b.p(r,"mwandishi")||B.b.p(r,"habari")){q=o.b.a.au
 q.gj(q).WP(a)}else if(B.b.p(r,"client")||B.b.p(r,"mteja")){q=o.b.a.au
@@ -96003,7 +96003,7 @@ if(B.b.p(l,"reporter")||B.b.p(l,"mwandishi")||B.b.p(l,"report")||!1){s=n.a
 r=s.a.i8
 q=r
 r=s
-s=q}else if(B.b.p(l,"victim")||B.b.p(l,"mwathirika")){s=n.a
+s=q}else if(B.b.p(l,"victim")||B.b.p(l,"mhanga")){s=n.a
 r=s.a.wr
 q=r
 r=s
@@ -96049,7 +96049,7 @@ if(B.b.p(l,"reporter")||B.b.p(l,"mwandishi")||B.b.p(l,"report")||!1){s=n.a
 r=s.a.jZ
 q=r
 r=s
-s=q}else if(B.b.p(l,"victim")||B.b.p(l,"mwathirika")){s=n.a
+s=q}else if(B.b.p(l,"victim")||B.b.p(l,"mhanga")){s=n.a
 r=s.a.jZ
 q=r
 r=s
@@ -96112,7 +96112,7 @@ s=q}else if(B.b.p(j,"client")||B.b.p(j,"mteja")){s=m.b
 r=s.a.ob
 q=r
 r=s
-s=q}else if(B.b.p(j,"victim")||B.b.p(j,"mwathirika")){s=m.b
+s=q}else if(B.b.p(j,"victim")||B.b.p(j,"mhanga")){s=m.b
 r=s.a.ob
 q=r
 r=s
@@ -96132,7 +96132,7 @@ a.toString
 A.l().$1(a)
 s=o.a
 r=s.a
-if(B.b.p(r,"victim")||B.b.p(r,"mwathirika")){r=o.b
+if(B.b.p(r,"victim")||B.b.p(r,"mhanga")){r=o.b
 q=r.a.au
 q.gj(q).as8(a)}else if(B.b.p(r,"perpertrator")||B.b.p(r,"mshukiwa")){r=o.b
 q=r.a.au
@@ -96250,7 +96250,7 @@ p.gj(p).Il(l)}else if(B.b.p(k,"report")){o.scd(0,l)
 j.pI.scd(0,l)
 p=j.au
 p.gj(p).asq(l,l)}else if(B.b.p(k,"victim date of birth birth")||B.b.p(k,"tarehe ya kuzaliwa")||B.b.p(k,"Victim Date of Birth".toLowerCase())||B.b.p(k,"kuzaliwa")){p=j.au
-p.gj(p).asi(l,l)}else if(B.b.p(k,"victim date of birth")||B.b.p(k,"tarehe ya kuzaliwa ya mwathirika")){p=j.pI
+p.gj(p).asi(l,l)}else if(B.b.p(k,"victim date of birth")||B.b.p(k,"tarehe ya kuzaliwa ya mhanga")){p=j.pI
 p.scd(0,l)
 o=j.au
 o.gj(o).as9(p.a.a)}else if(B.b.p(k,"perpertrator date of birth")||B.b.p(k,"tarehe ya kuzaliwa ya mshukiwa")){p=j.t5
@@ -96336,7 +96336,8 @@ s.gj(s).arR(a)}else if(B.b.p(o,"reporter")||B.b.p(o,"habari")||B.b.p(o,"mwandish
 s=p.a.au
 s.gj(s).as_(a)}else if(B.b.p(o,"client")||B.b.p(o,"mteja")){p=q.b
 s=p.a.au
-s.gj(s).WE(a)}else{p=B.b.p(o,"victim")||B.b.p(o,"mhanga")||B.b.p(o,"mwathirika")
+s.gj(s).WE(a)}else{if(!B.b.p(o,"victim")){p=B.b.p(o,"mhanga")
+p=p||p}else p=!0
 s=q.b
 r=s.a
 if(p){p=r.au
@@ -96368,7 +96369,8 @@ s.gj(s).In(a)}else if(B.b.p(o,"reporter")||B.b.p(o,"habari")){p=q.b
 s=p.a.au
 s.gj(s).Io(a)}else if(B.b.p(o,"client")||B.b.p(o,"mteja")){p=q.b
 s=p.a.au
-s.gj(s).WE(a)}else{p=B.b.p(o,"victim")||B.b.p(o,"mhanga")||B.b.p(o,"mwathirika")
+s.gj(s).WE(a)}else{if(!B.b.p(o,"victim")){p=B.b.p(o,"mhanga")
+p=p||p}else p=!0
 s=q.b
 r=s.a
 if(p){p=r.au
@@ -102888,7 +102890,7 @@ h=s.VR()
 g=s.VT()
 f=s.W2()
 e=t.p
-return A.d3(A.Gh(c,new A.bt(B.ao,A.RQ(new A.bt(B.ao,A.nG(A.bw(A.bT(A.a([A.ca(A.a([A.bw(A.bT(A.a([p,o,n,m,l,j,i,h,g,f,s.vH(J.e(k.gj(k),"en")?"Victim Email Address":"Barua pepe ya mwathirika"),s.W3(),s.W4()],e),B.u,B.q,B.r),c,d.c)],e),B.u,B.fn,B.r,c),s.Al()],e),B.u,B.q,B.r),q.a.b,r.a.a),c,B.F,c,c,c,B.M),c),c,3),c),b),c,c)},
+return A.d3(A.Gh(c,new A.bt(B.ao,A.RQ(new A.bt(B.ao,A.nG(A.bw(A.bT(A.a([A.ca(A.a([A.bw(A.bT(A.a([p,o,n,m,l,j,i,h,g,f,s.vH(J.e(k.gj(k),"en")?"Victim Email Address":"Barua pepe ya mhanga"),s.W3(),s.W4()],e),B.u,B.q,B.r),c,d.c)],e),B.u,B.fn,B.r,c),s.Al()],e),B.u,B.q,B.r),q.a.b,r.a.a),c,B.F,c,c,c,B.M),c),c,3),c),b),c,c)},
 $S:4}
 A.aFF.prototype={
 $1(a){var s,r,q=this,p=null,o=t.m
@@ -102950,10 +102952,10 @@ f=t.p
 o=A.bw(A.bT(A.a([m,l,k,j,i,g,n.Am(J.e(h.gj(h),c)?"Incident Time":"Muda wa tukio")],f),B.u,B.q,B.r),d,o.a.a/2.2-100)
 r=s.w(r).f
 s=n.VR()
-m=n.HT(J.e(h.gj(h),c)?"Viction Sex":"khs Jinsia ya Mwathirika")
+m=n.HT(J.e(h.gj(h),c)?"Viction Sex":"khs Jinsia ya mhanga")
 l=n.VT()
 k=n.W2()
-return A.d3(A.Gh(d,new A.bt(B.ao,A.RQ(new A.bt(B.ao,A.nG(A.bw(A.bT(A.a([A.ca(A.a([o,A.bw(A.bT(A.a([s,m,l,k,n.vH(J.e(h.gj(h),c)?"Victim Email Address":"Barua pepe ya mwathirika"),n.W3(),n.W4()],f),B.u,B.q,B.r),d,r.a.a/2.2-100)],f),B.u,B.fn,B.r,d),n.Al()],f),B.u,B.q,B.r),q.a.b,p.a.a),d,B.F,d,d,d,B.M),d),d,3),d),b),d,d)},
+return A.d3(A.Gh(d,new A.bt(B.ao,A.RQ(new A.bt(B.ao,A.nG(A.bw(A.bT(A.a([A.ca(A.a([o,A.bw(A.bT(A.a([s,m,l,k,n.vH(J.e(h.gj(h),c)?"Victim Email Address":"Barua pepe ya mhanga"),n.W3(),n.W4()],f),B.u,B.q,B.r),d,r.a.a/2.2-100)],f),B.u,B.fn,B.r,d),n.Al()],f),B.u,B.q,B.r),q.a.b,p.a.a),d,B.F,d,d,d,B.M),d),d,3),d),b),d,d)},
 $S:4}
 A.aFI.prototype={
 $0(){return A.jU(this.a)?B.a8V:this.b.$0()},
@@ -103017,11 +103019,11 @@ p=a4.HT(J.e(a5.gj(a5),i)?"Perpertrator Sex":"khs Jinsia ya Mshukiwa")
 o=a4.VU(J.e(a5.gj(a5),i)?"Perpertrator Marital":"Khs Ndoa ya Mshukiwa")
 a6=A.bw(A.bT(A.a([a6,a7,a8,a9,s,r,q,p,o,a4.W_(J.e(a5.gj(a5),i)?"Perpertrator Regiligion":"Khs Dini ya Mshukiwa ")],l),B.u,B.q,B.r),j,m.a.a/3-100)
 a0=a.w(a0).f
-a=a4.HS(J.e(a5.gj(a5),i)?"Victim Information":"Taarifa za Mwathirika")
-a7=a4.rE(J.e(a5.gj(a5),i)?"Viction date of birth":"Tarehe ya kuzaliwa ya Mwathirika")
-a8=a4.HT(J.e(a5.gj(a5),i)?"Victim Sex":"khs Jinsia ya Mwathirika")
-a9=a4.VU(J.e(a5.gj(a5),i)?"About Victim Marital":"Khs Ndoa Mwathirika")
-s=a4.W_(J.e(a5.gj(a5),i)?"About Victim Religion ":"Khs Dini ya Mwathirika")
+a=a4.HS(J.e(a5.gj(a5),i)?"Victim Information":"Taarifa za mhanga")
+a7=a4.rE(J.e(a5.gj(a5),i)?"Viction date of birth":"Tarehe ya kuzaliwa ya mhanga")
+a8=a4.HT(J.e(a5.gj(a5),i)?"Victim Sex":"khs Jinsia ya mhanga")
+a9=a4.VU(J.e(a5.gj(a5),i)?"About Victim Marital":"Khs Ndoa mhanga")
+s=a4.W_(J.e(a5.gj(a5),i)?"About Victim Religion ":"Khs Dini ya mhanga")
 r=a4.aqw(J.e(a5.gj(a5),i)?"Website":"Tovuti")
 q=a4.aqg(J.e(a5.gj(a5),i)?"Follow up Documentation":"Ufuatiliaji wa nyaraka")
 p=a4.aqh(J.e(a5.gj(a5),i)?"LHRC Assistance ":"Msaada wa LHRC")
@@ -103047,7 +103049,7 @@ m=r.rE(n?A.b(A.b(A.b(m,g).b,h).f,d):A.b(A.b(A.b(m,g).c,e).e,d))
 n=J.e(q.gj(q),h)
 l=o.a
 l=r.Am(n?A.b(A.b(A.b(l,g).b,h).cw,c):A.b(A.b(A.b(l,g).c,e).a_,c))
-n=r.vH(J.e(q.gj(q),h)?"Victim Email Address":"Barua pepe ya mwathirika")
+n=r.vH(J.e(q.gj(q),h)?"Victim Email Address":"Barua pepe ya mhanga")
 q=J.e(q.gj(q),h)
 o=o.a
 k=t.p
